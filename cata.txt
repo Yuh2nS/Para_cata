@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Te Amo, Catalina 💖</title>
+    <style>
+        /* Estilo del fondo */
+        body {
+            background: linear-gradient(to bottom, #ffe6f0, #ffccff);
+            font-family: 'Arial', sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 0;
+        }
+
+        /* Título principal */
+        h1 {
+            font-size: 3.5em;
+            color: #ff4d94;
+            margin-top: 50px;
+            text-shadow: 2px 2px 5px #ff80bf;
+        }
+
+        /* Decoración de flores */
+        .flowers {
+            font-size: 2em;
+            margin: 20px 0;
+        }
+
+        /* Frase personalizada */
+        p {
+            font-size: 1.8em;
+            color: #800080;
+            margin: 30px 20px;
+            line-height: 1.5em;
+            text-shadow: 1px 1px 4px #cc66cc;
+        }
+
+        /* Decoración adicional */
+        .heart {
+            font-size: 5em;
+            color: #ff66b2;
+            margin: 30px 0;
+        }
+
+        /* Pie de página */
+        footer {
+            margin-top: 50px;
+            font-size: 1em;
+            color: #ff99cc;
+        }
+    </style>
+</head>
+<body>
+    <h1>🌸 Catalina, mi mundo 🌹</h1>
+    <div class="flowers">
+        🌷💻🌺💐🌻🌸💻🌹
+    </div>
+    <p>
+        Mi amor por ti es como un <strong>algoritmo infinito</strong>: <br>
+        crece cada día, optimizado por tu sonrisa. 💖 <br>
+        Eres el <strong>código fuente</strong> de mi felicidad. 🌸
+    </p>
+    <div class="heart">
+        ❤️
+    </div>
+    <footer>
+        Creado con amor por alguien que nunca dejará de amarte. 🌷✨
+    </footer>
+</body>
+</html>
